@@ -1,0 +1,2 @@
+# jattcoin
+Codename jattcoin
